@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanjanna3
+- 👋 Hi, I’m @Sanjana3
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Sanjanna3/Sanjanna3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sanjana3/Sanjana3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
